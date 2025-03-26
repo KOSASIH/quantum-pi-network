@@ -3,7 +3,7 @@ pandas==1.5.3  # Powerful data manipulation and analysis library
 numpy==1.23.5   # Fundamental package for numerical computations in Python
 
 # Machine learning and deep learning
-tensorflow==2.11.0  # Comprehensive library for machine learning and deep learning
+tensorflow==2.12.1  # Comprehensive library for machine learning and deep learning
 scikit-learn==1.1.3  # Simple and efficient tools for data mining and data analysis
 
 # Blockchain interaction
