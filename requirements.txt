@@ -23,7 +23,7 @@ python-dotenv==0.20.0  # Loads environment variables from a .env file
 pytest==7.2.0  # Framework for testing Python code
 
 # Additional libraries (if needed)
-requests==2.28.1  # For making HTTP requests
+requests==2.32.2  # For making HTTP requests
 beautifulsoup4==4.11.1  # For web scraping
 Flask-SocketIO==5.3.0  # For real-time communication in Flask applications
 Flask-JWT-Extended==4.4.0  # For JWT authentication in Flask applications
