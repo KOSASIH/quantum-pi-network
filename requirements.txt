@@ -27,7 +27,7 @@ requests==2.28.1  # For making HTTP requests
 beautifulsoup4==4.11.1  # For web scraping
 Flask-SocketIO==5.3.0  # For real-time communication in Flask applications
 Flask-JWT-Extended==4.4.0  # For JWT authentication in Flask applications
-cryptography==37.0.2  # For secure encryption and decryption
+cryptography==44.0.1  # For secure encryption and decryption
 
 # Optional: Advanced data processing and analysis
 dask==2022.10.0  # Parallel computing with task scheduling
