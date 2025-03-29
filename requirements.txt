@@ -32,4 +32,4 @@ cryptography==37.0.2  # For secure encryption and decryption
 # Optional: Advanced data processing and analysis
 dask==2022.10.0  # Parallel computing with task scheduling
 xgboost==1.6.2  # Gradient boosting framework for machine learning
-lightgbm==3.3.2  # Fast, distributed, high-performance gradient boosting (LightGBM)
+lightgbm==4.6.0  # Fast, distributed, high-performance gradient boosting (LightGBM)
