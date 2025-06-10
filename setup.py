@@ -48,7 +48,7 @@ setup(
         "jupyter==1.0.0",
         "python-dotenv==0.20.0",
         "pytest==7.2.0",
-        "requests==2.28.1",
+        "requests==2.32.4",
         "beautifulsoup4==4.11.1",
         "Flask-SocketIO==5.3.0",
         "Flask-JWT-Extended==4.4.0",
