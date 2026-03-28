@@ -52,7 +52,7 @@ setup(
         "beautifulsoup4==4.11.1",
         "Flask-SocketIO==5.3.0",
         "Flask-JWT-Extended==4.4.0",
-        "cryptography==37.0.2",
+        "cryptography==46.0.6",
         "dask==2022.10.0",
         "xgboost==1.6.2",
         "lightgbm==3.3.2",
